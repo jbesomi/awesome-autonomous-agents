@@ -2,6 +2,10 @@
 
 A curated list of awesome Autonomoug Agents frameworks, software, and resources.
 
+**What are autonomous agents?**
+
+Autonomous agents are programs, powered by AI, that when given an objective are able to create tasks for themselves, complete tasks, create new tasks, reprioritize their task list, complete the new top task, and loop until their objective is reached.
+
 ### Frameworks and Platforms
 
 - [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT)
