@@ -17,3 +17,5 @@ A curated list of awesome "AutoGPT" tools.
 
 - [langchain](https://github.com/hwchase17/langchain)
 - [GPT Agent Toolkit](https://github.com/XpressAI/xai-gpt-agent-toolkit)
+
+Work in progress, feel free to open a PR !
