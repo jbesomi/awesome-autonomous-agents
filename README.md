@@ -19,9 +19,5 @@ A curated list of awesome Autonomoug Agents frameworks, software, and resources.
 
 - [langchain](https://github.com/hwchase17/langchain)
 - [GPT Agent Toolkit](https://github.com/XpressAI/xai-gpt-agent-toolkit)
-- [awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci)
 
-### Online tools
-- https://www.cognosys.ai/
-- https://godmode.space/
-- https://agentgpt.reworkd.ai/
+Work in progress, feel free to open a PR !
