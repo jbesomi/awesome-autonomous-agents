@@ -11,3 +11,8 @@ A curated list of awesome "AutoGPT" tools.
 ### Blog posts
 
 - [The Complete Beginners Guide To Autonomous Agents](https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents)
+
+
+### Toolkit
+
+- [GPT Agent Toolkit](https://github.com/XpressAI/xai-gpt-agent-toolkit)
