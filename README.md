@@ -25,3 +25,4 @@ Autonomous agents are programs, powered by AI, that when given an objective are 
 - [GPT Agent Toolkit](https://github.com/XpressAI/xai-gpt-agent-toolkit)
 
 Work in progress, feel free to open a PR !
+- [auto-co](https://github.com/NikitaDmitrieff/auto-co-meta) — Open-source OS for fully autonomous AI companies. 14 specialized agents (CEO, CTO, CFO, engineer, marketer) run your startup around the clock. Bash loop + Claude Code CLI + markdown consensus file. MIT license.
