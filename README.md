@@ -8,6 +8,7 @@ Autonomous agents are programs, powered by AI, that when given an objective are 
 
 ### Frameworks and Platforms
 
+- [joshua-agent](https://github.com/jorgevazquez-vagojo/joshua-agent) - Autonomous gated software sprint framework. Work agents implement, gate agent reviews with GO/CAUTION/REVERT verdict. Auto-deploys on GO, auto-reverts on REVERT. Works with Claude Code, Aider, Codex.
 - [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT)
 - [AgentGPT](https://github.com/reworkd/AgentGPT)
 - [babyagi](https://github.com/yoheinakajima/babyagi)
