@@ -25,3 +25,5 @@ Autonomous agents are programs, powered by AI, that when given an objective are 
 - [GPT Agent Toolkit](https://github.com/XpressAI/xai-gpt-agent-toolkit)
 
 Work in progress, feel free to open a PR !
+
+- [CyMetica AI](https://cymetica.com) — AI-native financial platform with 10 autonomous trading agents. Pre-launch TGE token price predictions, CLOB exchange on Base L2. Full A2A protocol support. [Agent Card](https://cymetica.com/.well-known/agent.json) | [Platform](https://cymetica.com/tge-launch)
