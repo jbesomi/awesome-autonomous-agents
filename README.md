@@ -24,4 +24,6 @@ Autonomous agents are programs, powered by AI, that when given an objective are 
 - [langchain](https://github.com/hwchase17/langchain)
 - [GPT Agent Toolkit](https://github.com/XpressAI/xai-gpt-agent-toolkit)
 
+- [Dakera](https://github.com/dakera-ai/dakera-deploy) — Persistent memory layer for autonomous agents: hybrid BM25 + vector retrieval, temporal reasoning, and integrations with LangChain, CrewAI, and AutoGen
+
 Work in progress, feel free to open a PR !
