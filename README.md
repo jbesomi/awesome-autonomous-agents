@@ -15,6 +15,7 @@ Autonomous agents are programs, powered by AI, that when given an objective are 
 - [ai-legion](https://github.com/eumemic/ai-legion)
 - [JARVIS](https://github.com/microsoft/JARVIS)
 - [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/abs/2303.17580)
+- [Boardroom](https://github.com/jamiejhouston-commits/boardroom) - iOS command center for supervising autonomous AI agents from a founder/operator workflow.
 ### Blog posts
 
 - [The Complete Beginners Guide To Autonomous Agents](https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents)
