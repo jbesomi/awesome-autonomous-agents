@@ -15,6 +15,8 @@ Autonomous agents are programs, powered by AI, that when given an objective are 
 - [ai-legion](https://github.com/eumemic/ai-legion)
 - [JARVIS](https://github.com/microsoft/JARVIS)
 - [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/abs/2303.17580)
+- [rust-norion](https://github.com/yanghao1143/rust-norion) - Rust AI control-layer prototype for routing, memory gates, evidence checks, rollback, and auditable self-evolution.
+
 ### Blog posts
 
 - [The Complete Beginners Guide To Autonomous Agents](https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents)
