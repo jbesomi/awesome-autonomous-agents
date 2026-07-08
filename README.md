@@ -12,6 +12,7 @@ Autonomous agents are programs, powered by AI, that when given an objective are 
 - [AgentGPT](https://github.com/reworkd/AgentGPT)
 - [babyagi](https://github.com/yoheinakajima/babyagi)
 - [OpenAGI](https://github.com/agiresearch/OpenAGI)
+- [RDLeader](https://github.com/happysnaker/RDLeader) - Local-first control plane for supervising AI R&D workers with task ownership, runtime dispatch, result collection, approval gates, and public-safe QA evidence.
 - [ai-legion](https://github.com/eumemic/ai-legion)
 - [JARVIS](https://github.com/microsoft/JARVIS)
 - [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/abs/2303.17580)
