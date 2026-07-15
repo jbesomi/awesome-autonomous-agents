@@ -8,6 +8,7 @@ Autonomous agents are programs, powered by AI, that when given an objective are 
 
 ### Frameworks and Platforms
 
+- [DarkMoon](https://github.com/ASCIT31/Dark-Moon) - Open-source autonomous AI pentester (MCP host) that orchestrates 80+ offensive-security tools via Claude or a local model
 - [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT)
 - [AgentGPT](https://github.com/reworkd/AgentGPT)
 - [babyagi](https://github.com/yoheinakajima/babyagi)
@@ -15,6 +16,7 @@ Autonomous agents are programs, powered by AI, that when given an objective are 
 - [ai-legion](https://github.com/eumemic/ai-legion)
 - [JARVIS](https://github.com/microsoft/JARVIS)
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT)
+- [LightAgent](https://github.com/wanxingai/LightAgent)
 - [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/abs/2303.17580)
 ### Blog posts
 
