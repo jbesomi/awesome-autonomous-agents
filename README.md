@@ -27,3 +27,6 @@ Autonomous agents are programs, powered by AI, that when given an objective are 
 - [GPT Agent Toolkit](https://github.com/XpressAI/xai-gpt-agent-toolkit)
 
 Work in progress, feel free to open a PR !
+
+- [Agon](https://github.com/AutoResearch-Factory/Agon) - Autoresearch system with the smallest prompt footprint in its class (18 roles, 230.6 KiB), runs across 10+ disciplines without modification
+- [AutoNumerics](https://github.com/Daviddjddu/Autonumerics) - Reads a PDE problem in plain text, picks an appropriate numerical method, and produces a validated solver
