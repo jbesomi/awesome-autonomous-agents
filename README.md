@@ -16,6 +16,7 @@ Autonomous agents are programs, powered by AI, that when given an objective are 
 - [ai-legion](https://github.com/eumemic/ai-legion)
 - [JARVIS](https://github.com/microsoft/JARVIS)
 - [LightAgent](https://github.com/wanxingai/LightAgent)
+- [fractal](https://github.com/plasma-ai/fractal) - Hierarchical coding-agent runtime that runs bounded autonomous loops with recursive delegation in isolated Git worktrees
 - [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/abs/2303.17580)
 ### Blog posts
 
