@@ -23,6 +23,7 @@ Autonomous agents are programs, powered by AI, that when given an objective are 
 
 ### Toolkit
 
+- [ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) - Open-source benchmarking framework for evaluating AI browser agents on everyday online tasks across live websites.
 - [langchain](https://github.com/hwchase17/langchain)
 - [GPT Agent Toolkit](https://github.com/XpressAI/xai-gpt-agent-toolkit)
 
