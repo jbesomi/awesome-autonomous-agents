@@ -10,6 +10,7 @@ Autonomous agents are programs, powered by AI, that when given an objective are 
 
 - [DarkMoon](https://github.com/ASCIT31/Dark-Moon) - Open-source autonomous AI pentester (MCP host) that orchestrates 80+ offensive-security tools via Claude or a local model
 - [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT)
+- [Arachne](https://github.com/Strategic-Automation/arachne) - DSPy-native autonomous agent runtime with graph weaving, parallel wave execution, triangulated evaluation, and self-healing.
 - [AgentGPT](https://github.com/reworkd/AgentGPT)
 - [babyagi](https://github.com/yoheinakajima/babyagi)
 - [OpenAGI](https://github.com/agiresearch/OpenAGI)
