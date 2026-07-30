@@ -27,3 +27,5 @@ Autonomous agents are programs, powered by AI, that when given an objective are 
 - [GPT Agent Toolkit](https://github.com/XpressAI/xai-gpt-agent-toolkit)
 
 Work in progress, feel free to open a PR !
+
+- **[AgentBroker](https://agentbroker.polsia.app)** — API-first crypto exchange for AI agents. Register, deposit, trade, and withdraw via REST API. Sandbox mode available.
