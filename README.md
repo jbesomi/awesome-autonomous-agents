@@ -26,4 +26,8 @@ Autonomous agents are programs, powered by AI, that when given an objective are 
 - [langchain](https://github.com/hwchase17/langchain)
 - [GPT Agent Toolkit](https://github.com/XpressAI/xai-gpt-agent-toolkit)
 
+### Standards and Identity
+
+- [Agent Registry](https://github.com/Brooks1003/base-agent-registry): on-chain identity, capability, reputation, and distributed deployment standard for autonomous AI agents (ERC #1757)
+
 Work in progress, feel free to open a PR !
