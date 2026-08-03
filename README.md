@@ -25,5 +25,6 @@ Autonomous agents are programs, powered by AI, that when given an objective are 
 
 - [langchain](https://github.com/hwchase17/langchain)
 - [GPT Agent Toolkit](https://github.com/XpressAI/xai-gpt-agent-toolkit)
+- [Nitro Translate](https://nitrotranslate.com) — Human translation service that autonomous agents can call and pay for via the Machine Payments Protocol (MPP). Adds a human-in-the-loop translation layer to agent workflows. 
 
 Work in progress, feel free to open a PR !
