@@ -8,6 +8,7 @@ Autonomous agents are programs, powered by AI, that when given an objective are 
 
 ### Frameworks and Platforms
 
+- [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent) - Local-first CLI and TUI coding agent that runs open-weight models entirely on your machine, with 56 built-in tools, MCP support and a five-layer memory; no account or API key needed (developer preview, APIs and behavior still moving)
 - [DarkMoon](https://github.com/ASCIT31/Dark-Moon) - Open-source autonomous AI pentester (MCP host) that orchestrates 80+ offensive-security tools via Claude or a local model
 - [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT)
 - [AgentGPT](https://github.com/reworkd/AgentGPT)
