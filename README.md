@@ -25,5 +25,6 @@ Autonomous agents are programs, powered by AI, that when given an objective are 
 
 - [langchain](https://github.com/hwchase17/langchain)
 - [GPT Agent Toolkit](https://github.com/XpressAI/xai-gpt-agent-toolkit)
+- [Agent QA](https://github.com/vostride/agent-qa) - Agentic QA CLI and MCP server for natural-language web and mobile tests.
 
 Work in progress, feel free to open a PR !
