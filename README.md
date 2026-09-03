@@ -25,5 +25,6 @@ Autonomous agents are programs, powered by AI, that when given an objective are 
 
 - [langchain](https://github.com/hwchase17/langchain)
 - [GPT Agent Toolkit](https://github.com/XpressAI/xai-gpt-agent-toolkit)
+- [YYLO Benchmark](https://github.com/yylo-dev/yylo-benchmark) - Longitudinal evaluation and immutable evidence for autonomous coding-agent runs: per-attempt isolated worktrees with ordered deterministic and LLM evaluator profiles
 
 Work in progress, feel free to open a PR !
