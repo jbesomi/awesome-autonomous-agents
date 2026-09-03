@@ -8,6 +8,7 @@ Autonomous agents are programs, powered by AI, that when given an objective are 
 
 ### Frameworks and Platforms
 
+- [YYLO](https://github.com/yylo-dev/yylo) - Open-source orchestrator that runs CLI coding agents (Claude Code, Codex, Gemini CLI) in parallel across isolated git worktrees, tracked on a Kanban board
 - [DarkMoon](https://github.com/ASCIT31/Dark-Moon) - Open-source autonomous AI pentester (MCP host) that orchestrates 80+ offensive-security tools via Claude or a local model
 - [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT)
 - [AgentGPT](https://github.com/reworkd/AgentGPT)
