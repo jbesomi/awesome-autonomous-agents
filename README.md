@@ -17,6 +17,7 @@ Autonomous agents are programs, powered by AI, that when given an objective are 
 - [JARVIS](https://github.com/microsoft/JARVIS)
 - [LightAgent](https://github.com/wanxingai/LightAgent)
 - [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/abs/2303.17580)
+- [AIHawk](https://github.com/feder-cr/AIHawk) - Open-source AI browser agent that browses, clicks, types and reads the real web from plain-English instructions, shipped as an MCP server (`uvx aihawk`) for Claude Code, Codex and Gemini CLI, or a standalone web UI
 ### Blog posts
 
 - [The Complete Beginners Guide To Autonomous Agents](https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents)
