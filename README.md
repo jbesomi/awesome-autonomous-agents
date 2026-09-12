@@ -12,6 +12,7 @@ Autonomous agents are programs, powered by AI, that when given an objective are 
 - [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT)
 - [AgentGPT](https://github.com/reworkd/AgentGPT)
 - [babyagi](https://github.com/yoheinakajima/babyagi)
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
 - [OpenAGI](https://github.com/agiresearch/OpenAGI)
 - [ai-legion](https://github.com/eumemic/ai-legion)
 - [JARVIS](https://github.com/microsoft/JARVIS)
