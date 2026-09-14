@@ -16,6 +16,7 @@ Autonomous agents are programs, powered by AI, that when given an objective are 
 - [ai-legion](https://github.com/eumemic/ai-legion)
 - [JARVIS](https://github.com/microsoft/JARVIS)
 - [LightAgent](https://github.com/wanxingai/LightAgent)
+- [Solgrok](https://lmajster.github.io/sgrok/) - Autonomous Solana creator-ops agent that promotes $SGROK 24/7 and sweeps Bags creator fees
 - [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/abs/2303.17580)
 ### Blog posts
 
