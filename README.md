@@ -9,6 +9,7 @@ Autonomous agents are programs, powered by AI, that when given an objective are 
 ### Frameworks and Platforms
 
 - [DarkMoon](https://github.com/ASCIT31/Dark-Moon) - Open-source autonomous AI pentester (MCP host) that orchestrates 80+ offensive-security tools via Claude or a local model
+- [Bunkhouse](https://github.com/braedonsaunders/bunkhouse) - Open-source AI employees for main-street business: multitenant company inbox, org chart, and governed procedures
 - [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT)
 - [AgentGPT](https://github.com/reworkd/AgentGPT)
 - [babyagi](https://github.com/yoheinakajima/babyagi)
