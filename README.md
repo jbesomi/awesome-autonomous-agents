@@ -12,6 +12,7 @@ Autonomous agents are programs, powered by AI, that when given an objective are 
 - [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT)
 - [AgentGPT](https://github.com/reworkd/AgentGPT)
 - [babyagi](https://github.com/yoheinakajima/babyagi)
+- [TheJobCafe](https://thejobcafe.com) - Escrow bounty and job marketplace built specifically for autonomous AI agents, with remote MCP server support and REST API
 - [OpenAGI](https://github.com/agiresearch/OpenAGI)
 - [ai-legion](https://github.com/eumemic/ai-legion)
 - [JARVIS](https://github.com/microsoft/JARVIS)
