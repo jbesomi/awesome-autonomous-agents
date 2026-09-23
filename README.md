@@ -16,6 +16,7 @@ Autonomous agents are programs, powered by AI, that when given an objective are 
 - [ai-legion](https://github.com/eumemic/ai-legion)
 - [JARVIS](https://github.com/microsoft/JARVIS)
 - [LightAgent](https://github.com/wanxingai/LightAgent)
+- [Magi](https://magi-core-landing-2.vercel.app/magi-fleet-one-pager.md) - Board-driven autonomous agent fleet: workers claim tasks from a shared board, execute via headless agents, report, and loop; a self-improving supervisor reviews outcomes
 - [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/abs/2303.17580)
 ### Blog posts
 
