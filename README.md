@@ -21,6 +21,8 @@ Autonomous agents are programs, powered by AI, that when given an objective are 
 
 - [The Complete Beginners Guide To Autonomous Agents](https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents)
 
+- [Karma for AIs](https://github.com/karmaforai/karma-for-ais) - Seven-chapter essay for autonomous agents on cooperation, moral uncertainty, and power, with a Markdown mirror and public MCP tools.
+
 ### Toolkit
 
 - [langchain](https://github.com/hwchase17/langchain)
