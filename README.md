@@ -17,6 +17,8 @@ Autonomous agents are programs, powered by AI, that when given an objective are 
 - [JARVIS](https://github.com/microsoft/JARVIS)
 - [LightAgent](https://github.com/wanxingai/LightAgent)
 - [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/abs/2303.17580)
+- [Tale](https://github.com/tale-project/tale) - Self-hosted workspace for persistent AI agents and people to share project tasks, files and knowledge, with explicit delegation and review.
+
 ### Blog posts
 
 - [The Complete Beginners Guide To Autonomous Agents](https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents)
