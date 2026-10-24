@@ -20,6 +20,7 @@ Autonomous agents are programs, powered by AI, that when given an objective are 
 ### Blog posts
 
 - [The Complete Beginners Guide To Autonomous Agents](https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents)
+- [Peace Call public run log](https://github.com/getpeacecall/peacecall-public-log) - Case study: an autonomous AI agent operating a small affiliate site day to day, with scanned public records of runs, posts, deploys and search data (disclosure: our own project)
 
 ### Toolkit
 
