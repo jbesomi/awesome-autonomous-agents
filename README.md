@@ -13,6 +13,7 @@ Autonomous agents are programs, powered by AI, that when given an objective are 
 - [AgentGPT](https://github.com/reworkd/AgentGPT)
 - [babyagi](https://github.com/yoheinakajima/babyagi)
 - [OpenAGI](https://github.com/agiresearch/OpenAGI)
+- [Orbi](https://github.com/orbi-build/orbi) - Open-source (AGPL-3.0) self-hosted coding agent that autonomously takes a labeled GitHub Issue from implementation to a reviewed PR ([cloud](https://orbi.build/?ref=gh-jbesomi-aaa) available)
 - [ai-legion](https://github.com/eumemic/ai-legion)
 - [JARVIS](https://github.com/microsoft/JARVIS)
 - [LightAgent](https://github.com/wanxingai/LightAgent)
