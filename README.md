@@ -17,6 +17,8 @@ Autonomous agents are programs, powered by AI, that when given an objective are 
 - [JARVIS](https://github.com/microsoft/JARVIS)
 - [LightAgent](https://github.com/wanxingai/LightAgent)
 - [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/abs/2303.17580)
+- [Kortix](https://github.com/kortix-ai/suna) - Open-source CompanyOS. Agents run on their own cloud computer, the agent rules and the change history live in one git repo you own, and session work reaches `main` through a change request a person approves.
+
 ### Blog posts
 
 - [The Complete Beginners Guide To Autonomous Agents](https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents)
